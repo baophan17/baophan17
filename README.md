@@ -1,4 +1,4 @@
- Hi there 👋
+<h1><i><strong> Hi there 👋 </strong></i></h1>
 
 <!--
 **baophan17/baophan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
